@@ -1,0 +1,6 @@
+# No install needed for the default (rule_based) or local_llm backends --
+# local_llm just needs Ollama (https://ollama.com) installed and running
+# separately, with a model pulled, e.g.: ollama pull llama3.1
+#
+# Only needed for the cloud_llm backend:
+openai>=1.0.0

@@ -1,0 +1,3 @@
+# No dependencies needed to run the free/local mode (pure Python standard library).
+# Only needed if you set OPENAI_API_KEY and want to use the higher-quality API path:
+openai>=1.0.0
